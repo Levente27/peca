@@ -22,12 +22,19 @@ img
 #tartalom
 {
 	box-shadow: -5px 5px 10px 7px rgba(0,0,0,0.7);	
+	opacity: 70% white;
+	padding: 20px;
 }
 
 h1
 {
 	text-shadow:2px 2px 5px  rgba(0,0,0,0.7);
 	line-height:1.5em;
+	color: #1c1815;
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	
 }
 
 li
