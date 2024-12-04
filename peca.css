@@ -19,6 +19,7 @@ img
 	border-radius:30px;	
 	box-shadow: 5px 5px 10px 7px rgba(0,0,0,0.7);
 
+
 }
 
 #tartalom
@@ -87,8 +88,21 @@ li{
 	font-size: 20px;
 }
 
-#tabla{
+
+
+table{
+	margin: auto;
+	width: 80%;
+	
+}
+
+table img{
+	display: block;
+	margin: auto;
+}
+
+#tab{
 	text-align: center;
 	font-weight: bolder;
-	margin: 20px;
+	padding: 20px;
 }
