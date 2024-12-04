@@ -15,14 +15,17 @@ body
 
 img
 {
+	border: solid 2px black;
 	border-radius:30px;	
 	box-shadow: 5px 5px 10px 7px rgba(0,0,0,0.7);
+
 }
 
 #tartalom
 {
 	box-shadow: -5px 5px 10px 7px rgba(0,0,0,0.7);	
-	opacity: 70% white;
+	opacity: 70%;
+	background-color: white;
 	padding: 20px;
 }
 
@@ -44,6 +47,12 @@ h1
 	font-size: 24px;
 	
 
+}
+.logo{
+	width: 40%;
+	display: block;
+	margin: right;
+	margin: 15px;
 }
 
 li
@@ -71,4 +80,15 @@ a:hover
 {
 	text-decoration:underline;
 	font-weight:800;
+}
+
+li{
+	list-style-image: url(icon.png);
+	font-size: 20px;
+}
+
+#tabla{
+	text-align: center;
+	font-weight: bolder;
+	margin: 20px;
 }
