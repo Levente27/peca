@@ -46,6 +46,12 @@ h1
 	
 
 }
+.logo{
+	width: 40%;
+	display: block;
+	margin: right;
+	margin: 15px;
+}
 
 li
 {
@@ -72,4 +78,9 @@ a:hover
 {
 	text-decoration:underline;
 	font-weight:800;
+}
+
+li{
+	list-style-image: url(icon.png);
+	font-size: 20px;
 }
