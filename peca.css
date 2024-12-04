@@ -5,6 +5,12 @@ body
 {
 	background-size: 100% auto;
 	line-height:2em;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-left: 40%;
+	color: #38271d;
 }
 
 img
