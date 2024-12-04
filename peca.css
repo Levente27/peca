@@ -22,7 +22,8 @@ img
 #tartalom
 {
 	box-shadow: -5px 5px 10px 7px rgba(0,0,0,0.7);	
-	opacity: 70% white;
+	opacity: 70%;
+	background-color: white;
 	padding: 20px;
 }
 
